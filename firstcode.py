@@ -12,6 +12,13 @@ print("overs:", overs)
 print("name_of_student:", name_of_student)
 print("subject_marks:", subject_marks)
 
+name="lux"
+qty=10
+price=5
+print("id=",id(name_of_student))
+print("bill=",qty * price)
+
+
 #First Comment 
 
 # Setup is done 8 feb 2026
