@@ -7,7 +7,7 @@ def login():
     username = input("Enter username: ")
     password = input("Enter password: ")
 
-    if username == "admin" and password == "1234":
+    if username == "guru" and password == "4321":
         print("Login Successful!\n")
         menu()
     else:
@@ -53,7 +53,7 @@ def chat():
         elif user == "how are you":
             reply = "I am fine. Thanks for asking."
         elif user == "what is your name":
-            reply = "I am Python Chat Bot."
+            reply = "I am lapi."
         elif user == "who created you":
             reply = "guru lamdade."
         elif user == "time":
