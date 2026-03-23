@@ -89,6 +89,7 @@ def help_menu():
     print("Commands you can use:")
     print("hello")
     print("hi")
+    print("hii")
     print("how are you")
     print("what is your name")
     print("time")

@@ -1,0 +1,3 @@
+total_visitors
+low_traffic_hours
+max_traffic
